@@ -1,0 +1,580 @@
+%!Adobe-FontList 1.13
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Archer-Medium
+FamilyName:Archer
+StyleName:Medium
+MenuName:Archer Medium
+StyleBits:0
+WeightClass:350
+WidthClass:5
+AngleClass:0
+FullName:Archer Medium
+WritingScript:Roman
+OutlineFileName:\Archer-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:479888
+FileModTime:1342695006
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Black
+FamilyName:Avenir LT Std
+StyleName:95 Black
+MenuName:Avenir LT Std 65 Medium
+StyleBits:2
+WeightClass:750
+WidthClass:5
+AngleClass:0
+FullName:Avenir LT Std 95 Black
+WritingScript:Roman
+OutlineFileName:\AvenirLTStd-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27912
+FileModTime:1342695032
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Book
+FamilyName:Avenir LT Std
+StyleName:45 Book
+MenuName:Avenir LT Std 45 Book
+StyleBits:0
+WeightClass:350
+WidthClass:5
+AngleClass:0
+FullName:Avenir LT Std 45 Book
+WritingScript:Roman
+OutlineFileName:\AvenirLTStd-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27444
+FileModTime:1342695033
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Heavy
+FamilyName:Avenir LT Std
+StyleName:85 Heavy
+MenuName:Avenir LT Std 55 Roman
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Avenir LT Std 85 Heavy
+WritingScript:Roman
+OutlineFileName:\AvenirLTStd-Heavy.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27640
+FileModTime:1342691375
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Light
+FamilyName:Avenir LT Std
+StyleName:35 Light
+MenuName:Avenir LT Std 35 Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Avenir LT Std 35 Light
+WritingScript:Roman
+OutlineFileName:\AvenirLTStd-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27240
+FileModTime:1342695034
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Medium
+FamilyName:Avenir LT Std
+StyleName:65 Medium
+MenuName:Avenir LT Std 65 Medium
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Avenir LT Std 65 Medium
+WritingScript:Roman
+OutlineFileName:\AvenirLTStd-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27264
+FileModTime:1342691375
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-MediumOblique
+FamilyName:Avenir LT Std
+StyleName:65 Medium Oblique
+MenuName:Avenir LT Std 65 Medium
+StyleBits:1
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Avenir LT Std 65 Medium Oblique
+WritingScript:Roman
+OutlineFileName:\AvenirLTStd-MediumOblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28920
+FileModTime:1342691375
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Oblique
+FamilyName:Avenir LT Std
+StyleName:55 Oblique
+MenuName:Avenir LT Std 55 Roman
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Avenir LT Std 55 Oblique
+WritingScript:Roman
+OutlineFileName:\AvenirLTStd-Oblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28724
+FileModTime:1342695034
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Roman
+FamilyName:Avenir LT Std
+StyleName:55 Roman
+MenuName:Avenir LT Std 55 Roman
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Avenir LT Std 55 Roman
+WritingScript:Roman
+OutlineFileName:\AvenirLTStd-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27176
+FileModTime:1342691375
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BerkeleyStd-Black
+FamilyName:ITC Berkeley Oldstyle Std
+StyleName:Black
+MenuName:ITC Berkeley Oldstyle Std Blk
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:ITC Berkeley Oldstyle Std Black
+WritingScript:Roman
+OutlineFileName:\BerkeleyStd-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30724
+FileModTime:1352801507
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BerkeleyStd-Bold
+FamilyName:ITC Berkeley Oldstyle Std
+StyleName:Bold
+MenuName:ITC Berkeley Oldstyle Std
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:ITC Berkeley Oldstyle Std Bold
+WritingScript:Roman
+OutlineFileName:\BerkeleyStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30288
+FileModTime:1352801507
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BerkeleyStd-Book
+FamilyName:ITC Berkeley Oldstyle Std
+StyleName:Book
+MenuName:ITC Berkeley Oldstyle Std Bk
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:ITC Berkeley Oldstyle Std Book
+WritingScript:Roman
+OutlineFileName:\BerkeleyStd-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30120
+FileModTime:1352801507
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BerkeleyStd-BookItalic
+FamilyName:ITC Berkeley Oldstyle Std
+StyleName:Book Italic
+MenuName:ITC Berkeley Oldstyle Std Bk
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:ITC Berkeley Oldstyle Std Book Italic
+WritingScript:Roman
+OutlineFileName:\BerkeleyStd-BookItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:31740
+FileModTime:1352801507
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BerkeleyStd-Italic
+FamilyName:ITC Berkeley Oldstyle Std
+StyleName:Italic
+MenuName:ITC Berkeley Oldstyle Std
+StyleBits:1
+WeightClass:500
+WidthClass:5
+AngleClass:1
+FullName:ITC Berkeley Oldstyle Std Italic
+WritingScript:Roman
+OutlineFileName:\BerkeleyStd-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30960
+FileModTime:1352801507
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BerkeleyStd-Medium
+FamilyName:ITC Berkeley Oldstyle Std
+StyleName:Medium
+MenuName:ITC Berkeley Oldstyle Std
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:ITC Berkeley Oldstyle Std Medium
+WritingScript:Roman
+OutlineFileName:\BerkeleyStd-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29964
+FileModTime:1352801507
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FrutigerLTStd-Bold
+FamilyName:Frutiger LT Std
+StyleName:65 Bold
+MenuName:Frutiger LT Std 45 Light
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Frutiger LT Std 65 Bold
+WritingScript:Roman
+OutlineFileName:\FrutigerLTStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27996
+FileModTime:1352800448
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FrutigerLTStd-BoldCn
+FamilyName:Frutiger LT Std
+StyleName:67 Bold Condensed
+MenuName:Frutiger LT Std 47 Light Cn
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Frutiger LT Std 67 Bold Condensed
+WritingScript:Roman
+OutlineFileName:\FrutigerLTStd-BoldCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29916
+FileModTime:1352801508
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FrutigerLTStd-Cn
+FamilyName:Frutiger LT Std
+StyleName:57 Condensed
+MenuName:Frutiger LT Std 57 Cn
+StyleBits:0
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Frutiger LT Std 57 Condensed
+WritingScript:Roman
+OutlineFileName:\FrutigerLTStd-Cn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28796
+FileModTime:1352801508
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FrutigerLTStd-Light
+FamilyName:Frutiger LT Std
+StyleName:45 Light
+MenuName:Frutiger LT Std 45 Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Frutiger LT Std 45 Light
+WritingScript:Roman
+OutlineFileName:\FrutigerLTStd-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27440
+FileModTime:1352801508
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FrutigerLTStd-LightItalic
+FamilyName:Frutiger LT Std
+StyleName:46 Light Italic
+MenuName:Frutiger LT Std 45 Light
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Frutiger LT Std 46 Light Italic
+WritingScript:Roman
+OutlineFileName:\FrutigerLTStd-LightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27888
+FileModTime:1352801508
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FrutigerLTStd-Roman
+FamilyName:Frutiger LT Std
+StyleName:55 Roman
+MenuName:Frutiger LT Std 55 Roman
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Frutiger LT Std 55 Roman
+WritingScript:Roman
+OutlineFileName:\FrutigerLTStd-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27328
+FileModTime:1352801508
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-Bold
+FamilyName:Helvetica LT Std
+StyleName:Bold
+MenuName:Helvetica LT Std
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Helvetica LT Std Bold
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:\HelveticaLTStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:45340
+FileModTime:1352800448
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-BoldCond
+FamilyName:Helvetica LT Std
+StyleName:Bold Condensed
+MenuName:Helvetica LT Std Cond
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Helvetica LT Std Bold Condensed
+WritingScript:Roman
+OutlineFileName:\HelveticaLTStd-BoldCond.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29984
+FileModTime:1352801508
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:\Times New Roman
+FileModTime:1082512800
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TradeGothicLTStd-Bd2
+FamilyName:Trade Gothic LT Std
+StyleName:Bold No. 2
+MenuName:Trade Gothic LT Std
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Trade Gothic LT Std Bold No. 2
+WritingScript:Roman
+OutlineFileName:\TradeGothicLTStd-Bd2.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27864
+FileModTime:1352801508
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TradeGothicLTStd-Bold
+FamilyName:Trade Gothic LT Std
+StyleName:Bold
+MenuName:Trade Gothic LT Std Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Trade Gothic LT Std Bold
+WritingScript:Roman
+OutlineFileName:\TradeGothicLTStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27688
+FileModTime:1352801509
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TradeGothicLTStd
+FamilyName:Trade Gothic LT Std
+StyleName:Regular
+MenuName:Trade Gothic LT Std
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Trade Gothic LT Std
+WritingScript:Roman
+OutlineFileName:\TradeGothicLTStd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27276
+FileModTime:1352801508
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:UniversalStd-NewswithCommPi
+FamilyName:Universal Std
+StyleName:News with Commercial Pi
+MenuName:Universal Std News w Comm Pi
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Universal Std News with Commercial Pi
+WritingScript:Roman
+OutlineFileName:\UniversalStd-NewswithCommPi.otf
+DataFormat:sfntData
+UsesStandardEncoding:no
+isCFF:yes
+FileLength:20288
+FileModTime:1352801509
+%EndFont
+
